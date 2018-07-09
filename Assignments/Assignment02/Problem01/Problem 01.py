@@ -1,6 +1,6 @@
 """
-Shujee Iqbal
-BCSF14M541
+Bilal Waseem
+BCSF14M511
 System Programming
 Task 1: Downloads and merges last 26 clips of quran recitation of every recieter in the given link.
 """

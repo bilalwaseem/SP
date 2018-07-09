@@ -1,6 +1,6 @@
 """
-Shujee Iqbal
-BCSF14M541
+Bilal Waseem
+BCSF14M511
 System Programming
 Task 4: Enter PID of a process to see its details.
 """
